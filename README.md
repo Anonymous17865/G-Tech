@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/109625649/188266408-3076c034-f8f5-4748-aada-3f5b4b3b3276.png)
+
+![2-logo](https://user-images.githubusercontent.com/109625649/188266494-12b481fc-4d9f-42f7-954d-be56c777b1c3.png)
 
 
 # G-Tech Brute Force Tool
