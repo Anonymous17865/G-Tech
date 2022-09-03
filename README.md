@@ -4,7 +4,7 @@
 
 ## Brute Force for Social Accounts
 
-Hacking toolkit for multible social media accounts. Brute force will give you the correct password almost everytime (97%) If you follow the steps below. Works with out proxies well but sometimes it gives a error like this:
+Hacking toolkit for multible social media accounts. Brute force will give you the correct password almost everytime (97%) if you follow the steps below. Works without proxies well but sometimes it gives a error like this:
 
 ```bash 
 File "/usr/lib/python3.10/smtplib.py", line 739, in login
