@@ -46,9 +46,10 @@ smtplib.SMTPServerDisconnected: Connection unexpectedly closed
  Then open a terminal there and write:
  
  ```bash
- python3 G-Tech.py -h
+ python3 G-Tech.py 
  ```
- It bring you a help menu, now you start brute-forcing;
+ It bring you a menu, 
+ Now nano open all-codes.txt, all the codes are there. now you start brute-forcing;
  
  ## Gmail Brute Forcing
  
