@@ -1,6 +1,6 @@
 # G-Tech-Brute
--------
-###I am NOT taking any responsibility!
+
+### I am NOT taking any responsibility!
 
 ## Brute Force for Social Accounts
 
@@ -17,7 +17,7 @@ File "/usr/lib/python3.10/smtplib.py", line 739, in login
     raise SMTPServerDisconnected("Connection unexpectedly closed")
 smtplib.SMTPServerDisconnected: Connection unexpectedly closed
  ```
- Don't let that happen, let's set proxies.
+ # Don't let that happen, let's set proxies.
  --------
  
  ## Setting up the proxy
@@ -35,7 +35,7 @@ smtplib.SMTPServerDisconnected: Connection unexpectedly closed
  Set the proxies as raw. Then reboot your device and "service tor start", now we are fully ready to start hacking!
  --------
  
- #Starting the Tool
+ # Starting the Tool
  
  G-Tech doesn't need dependencies pr requirements. All it needs is YOU to brute force.
  go to:
@@ -50,35 +50,34 @@ smtplib.SMTPServerDisconnected: Connection unexpectedly closed
  ```
  It bring you a help menu, now you start brute-forcing;
  
- ##Gmail Brute Forcing
+ ## Gmail Brute Forcing
  
  ```bash
  python3 G-Tech.py -g/--gmail accounthere@gmail.com -l wordlist here
  python3 G-Tech.py -g/--gmail accounthere@gmail.com -l single password here
  ```
- 
- ##Hotmail Brute Forcing
+ ## Hotmail Brute Forcing
  
  ```bash
  python3 G-Tech.py -t/--hotmail accounthere@hotmail -l wordlist here
  python3 G-Tech.py -t/--hotmail accounthere@hotmail -l single password here
  ```
  
- ##Twitter Brute Forcing
+ ## Twitter Brute Forcing
  
  ```bash
   python3 G-Tech.py -T/--twitter accountnamehere -l wordlist here
   python3 G-Tech.py -T/--twitter accountnamehere -l single password here
   ```
   
-  ##Facebook Brute Forcing
+  ## Facebook Brute Forcing
   
   ```bash
   python3 G-Tech.py -f/--facebook accountnamehere/username -l wordlist here
   python3 G-Tech.py -f/--facebook accountnamehere/username -l single password here
   ```
   
-  ##Netflix Brute Forcing
+  ## Netflix Brute Forcing
   VPN Recommended (Like ProtonVPN, OpenVPN or NordVPN)
   
   ```bash
