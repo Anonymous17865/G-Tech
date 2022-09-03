@@ -1,8 +1,8 @@
-# G-Tech-Brute
+# G-Tech Brute Force Tool
 
 ### I am NOT taking any responsibility!
 
-## Brute Force for Social Accounts
+# Brute Force for Social Accounts
 
 Hacking toolkit for multible social media accounts. Brute force will give you the correct password almost everytime (97%) if you follow the steps below. Works without proxies well but sometimes it gives a error like this:
 
