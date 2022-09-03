@@ -85,6 +85,11 @@ smtplib.SMTPServerDisconnected: Connection unexpectedly closed
   python3 G-Tech.py -n/--netflix accountnamehere -l single password here
   ```
   
+  
+  
+  
+  
+  
   That was all for me, I hope you won't anything illegal, because I am NOT taking any responsibility!
   
  
