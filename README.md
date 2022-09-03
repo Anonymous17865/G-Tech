@@ -1,4 +1,8 @@
+![logo](https://user-images.githubusercontent.com/109625649/188266408-3076c034-f8f5-4748-aada-3f5b4b3b3276.png)
+
+
 # G-Tech Brute Force Tool
+
 
 ### I am NOT taking any responsibility!
 
