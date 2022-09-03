@@ -17,7 +17,7 @@ File "/usr/lib/python3.10/smtplib.py", line 739, in login
     raise SMTPServerDisconnected("Connection unexpectedly closed")
 smtplib.SMTPServerDisconnected: Connection unexpectedly closed
  ```
- # Don't let that happen, let's set proxies.
+ # Don't let that happen, lets set proxies.
  --------
  
  ## Setting up the proxy
